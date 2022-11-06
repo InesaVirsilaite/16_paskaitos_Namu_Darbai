@@ -1,0 +1,12 @@
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\bin\Debug\CheckBox.exe.config
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\bin\Debug\nunit.framework.dll
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\bin\Debug\WebDriver.dll
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\bin\Debug\nunit.framework.xml
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\obj\Debug\CheckBox.csproj.AssemblyReference.cache
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\obj\Debug\CheckBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\obj\Debug\CheckBox.csproj.CopyComplete
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\obj\Debug\CheckBox.exe
+C:\Users\inesa\source\repos\ManoDaktarasPageTesting\CheckBox\obj\Debug\CheckBox.pdb
